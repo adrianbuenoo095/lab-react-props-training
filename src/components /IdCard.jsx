@@ -7,9 +7,7 @@ const IdCard = ({ lastName, firstName, gender, height, birth, picture }) => {
                 alt={firstName}
                 width={70}
                 height={70}
-
             />
-
             <ul>
                 <li><b>FirstName:</b>{firstName} </li>
                 <li><b>lastName:</b>{lastName} </li>
